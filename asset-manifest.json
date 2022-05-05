@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wonder_counter/static/css/main.e6c13ad2.css",
+    "main.js": "/wonder_counter/static/js/main.52f3d952.js",
+    "static/js/787.4a41cee6.chunk.js": "/wonder_counter/static/js/787.4a41cee6.chunk.js",
+    "index.html": "/wonder_counter/index.html",
+    "main.e6c13ad2.css.map": "/wonder_counter/static/css/main.e6c13ad2.css.map",
+    "main.52f3d952.js.map": "/wonder_counter/static/js/main.52f3d952.js.map",
+    "787.4a41cee6.chunk.js.map": "/wonder_counter/static/js/787.4a41cee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52f3d952.js"
+  ]
+}
